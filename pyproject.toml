@@ -10,7 +10,7 @@ dependencies = [
     "requests>=2.32.4",
 ]
 [project.scripts]
-google-drive-mcp = "main:run"
+google-drive-mcp = "main:main"
 
 [tool.uv]
 package = true
